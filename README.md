@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb Bayles, @kralub.
-- 👀 I’m interested in software engineering and software development.
-- 🌱 I’m currently learning Machine learning and JavaScript.
+- 👀 I’m interested in software engineering and DevOps.
+- 🌱 I’m currently learning Docker and Kubernetes.
 - 📫 How to reach me: baylescaleb@gmail.com
 
 <!---
